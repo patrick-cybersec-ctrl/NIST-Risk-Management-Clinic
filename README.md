@@ -16,3 +16,13 @@ I performed a comprehensive risk assessment for a fictional medical clinic (**Ri
 
 ## 🚀 Summary of Impact
 Identified a critical vulnerability in the clinic's billing portal (Risk Score: 9/9). Proposed a remediation strategy that reduced the overall residual risk by **70%** through technical controls and administrative policy changes.
+## 📊 Technical Artifacts & Risk Heatmap
+
+### Inherent Risk Assessment (Identify Phase)
+![Risk Heatmap](Risk_Matrix_Heatmap.jpg)
+
+### Mitigation & Control Registry (Protect Phase)
+![Mitigation Plan](Mitigation_and_Controls.jpg)
+
+### Technical Logic (Conditional Formatting Rules)
+![Logic Proof](Conditional_Formatting_Logic.jpg)
