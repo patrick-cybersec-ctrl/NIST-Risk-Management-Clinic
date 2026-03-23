@@ -19,10 +19,10 @@ Identified a critical vulnerability in the clinic's billing portal (Risk Score: 
 ## 📊 Technical Artifacts & Risk Heatmap
 
 ### Inherent Risk Assessment (Identify Phase)
-![Risk Heatmap](Risk_Matrix_Heatmap.jpg)
+![Risk Heatmap](Risk_Matrix_Heatmap.jpeg)
 
 ### Mitigation & Control Registry (Protect Phase)
-![Mitigation Plan](Mitigation_and_Controls.jpg)
+![Mitigation Plan](Mitigation_and_Controls.jpeg)
 
 ### Technical Logic (Conditional Formatting Rules)
-![Logic Proof](Conditional_Formatting_Logic.jpg)
+![Logic Proof](Conditional_Formatting_Logic.jpeg)
